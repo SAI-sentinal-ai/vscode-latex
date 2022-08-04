@@ -1,0 +1,68 @@
+{
+    "workbench.colorTheme": "Monochrome Light Amplified",
+    "window.autoDetectColorScheme": false,
+    "editor.folding": false,
+    "editor.lineNumbers": "off",
+    "editor.lineHeight": 1.5,
+    "git.decorations.enabled": false,
+    "editor.glyphMargin": true,
+    "workbench.preferredLightColorTheme": "Monochrome Light Amplified",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Adobe Caslon Pro",
+    "editor.cursorStyle": "line-thin",
+    "breadcrumbs.enabled": false,
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast Light",
+    "editor.tokenColorCustomizations": {
+        "comments": "#d9d9d9",
+        "textMateRules": [{
+            "scope": "punctuation",
+            "settings": {
+                "foreground": "#b6b6b6",
+            }
+        }]
+    },
+    "workbench.activityBar.visible": false,
+    "workbench.editor.decorations.badges": false,
+    "workbench.statusBar.visible": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 90,
+    "editor.rulers": [90],    
+//    "editor.tokenColorCustomizations": {
+//        "comments": "",
+//        "textMateRules": []
+//    },
+//    "grammarly.selectors": [
+//        {
+//            "language": "latex",
+//            "scheme": "file"
+//        }
+//    ],
+//    "editor.fontSize": 20,
+//    "editor.rulers": {},
+//    "editor.renderLineHighlight": "line",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#00f2ff4d",
+        "editor.lineHighlightBorder": "#fff",
+        "editorError.foreground": "#00000000",
+        "editorWarning.foreground": "#00000000",
+        "editorInfo.foreground": "#00000000",
+        "editor.background": "#FFFFFF",
+        "editor.foreground": "#000000",
+        "editorBracketHighlight.foreground1": "#000000",
+        "editorBracketHighlight.foreground2": "#000000",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#000000",
+        "editorOverviewRuler.errorForeground": "#ffffff",
+        "editorOverviewRuler.warningForeground": "#ffffff",
+        "editorGutter.addedBackground": "#00000000",
+        "editorGutter.deletedBackground": "#00000000",
+        "editorGutter.modifiedBackground": "#00000000",
+        "editor.background": "#00000000",
+},
+"latex-workshop.view.pdf.color.light.backgroundColor": "#000000",
+"latex-workshop.view.pdf.zoom": "page-width",
+"latex-workshop.view.pdf.trim": 3
+}
